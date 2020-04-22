@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.653
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoJoystick", "ArduinoJoystick\ArduinoJoystick.csproj", "{22ABECA3-B153-4771-8520-C2394DA94FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22ABECA3-B153-4771-8520-C2394DA94FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22ABECA3-B153-4771-8520-C2394DA94FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22ABECA3-B153-4771-8520-C2394DA94FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22ABECA3-B153-4771-8520-C2394DA94FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C14D8E7-3ED9-4F82-A479-02D067359B7C}
+	EndGlobalSection
+EndGlobal

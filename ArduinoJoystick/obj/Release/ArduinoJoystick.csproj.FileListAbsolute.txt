@@ -1,0 +1,16 @@
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\bin\Release\ArduinoJoystick.exe.config
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\bin\Release\ArduinoJoystick.exe
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\bin\Release\ArduinoJoystick.pdb
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\ArduinoJoystick.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\MainWindow.g.cs
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\App.g.cs
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\ArduinoJoystick_MarkupCompile.cache
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\ArduinoJoystick_MarkupCompile.lref
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\MainWindow.baml
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\ArduinoJoystick.g.resources
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\ArduinoJoystick.Properties.Resources.resources
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\ArduinoJoystick.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\ArduinoJoystick.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\ArduinoJoystick.exe
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Release\ArduinoJoystick.pdb

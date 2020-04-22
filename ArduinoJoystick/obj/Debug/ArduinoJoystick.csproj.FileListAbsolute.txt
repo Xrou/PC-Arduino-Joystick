@@ -1,0 +1,16 @@
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\bin\Debug\ArduinoJoystick.exe.config
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\bin\Debug\ArduinoJoystick.exe
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\bin\Debug\ArduinoJoystick.pdb
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\ArduinoJoystick.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\MainWindow.g.cs
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\App.g.cs
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\ArduinoJoystick_MarkupCompile.cache
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\ArduinoJoystick_MarkupCompile.lref
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\MainWindow.baml
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\ArduinoJoystick.g.resources
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\ArduinoJoystick.Properties.Resources.resources
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\ArduinoJoystick.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\ArduinoJoystick.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\ArduinoJoystick.exe
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\ArduinoJoystick.pdb
+C:\Users\Dima\source\repos\ArduinoJoystick\ArduinoJoystick\obj\Debug\GeneratedInternalTypeHelper.g.cs
